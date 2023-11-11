@@ -6,8 +6,6 @@ Uses previously done function library project libft.
 
 ---
 
-**How to use**
-
-Can be used in projects with ft_printf() and adding the ft_printf.h header.
+This is added to the libft function library.
 
 ---
